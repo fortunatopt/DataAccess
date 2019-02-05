@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>DataAccess_fortunatopt</PackageId>
+    <Authors>Patrick Fortunato</Authors>
   </PropertyGroup>
 
   <ItemGroup>
